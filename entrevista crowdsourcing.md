@@ -34,7 +34,7 @@ El entorno de investigación es creado por la comunidad de voluntarios que toman
 
 **4)¿De qué forma implementáis el software libre?¿Qué tipo de herramientas o entornos utilizáis?**
 
-Como cualquier otro software libre ( software que respeta la libertad de los usuarios y la comunidad, donde los usuarios tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software. Es una cuestión de libertad, no de precio) . Tenemos todo nuestro código disponible en Github.
+Como cualquier otro software libre (software que respeta la libertad de los usuarios y la comunidad, donde los usuarios tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software. Es una cuestión de libertad, no de precio) . Tenemos todo nuestro código disponible en Github.
 El equipo usa diferentes sistemas operativos (GNU/Linux, Mac OS o Windows), pero todas nuestras herramientas son software libre para la implementación de nuestra tecnología, así como el stack que utilizamos: Nginx, Posgresql, Redis, etc.
 
 **5)¿En qué medida puede cambiar el concepto de equipo de investigación tradicional que suele haber en universidades o centros privados?**
