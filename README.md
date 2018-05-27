@@ -1,6 +1,6 @@
 # playlist_hd
 
-***Material artículo Red HD:
+***Material artículo Red HD:***
 
 1. Versión española
 
