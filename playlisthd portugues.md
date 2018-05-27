@@ -6,10 +6,15 @@ por Arantxa  Serantes
 As humanidades digitais estão absolutamente comprometidas com o uso das novas tecnologias para ampliar o horizonte da cultura e o património fazendo-o acessível. Construir projectos que impliquem a participação de um público mais amplo é um dos objectivos a desenvolver. Supõe ir um passo para além das redes sociais académicas,que actuam como um prolongamento de repositórios institucionais.
 O fenómeno recente do crowdsourcing, ou ciência cidadã, pode ser visto como continuação do uso de plataformas disponíveis na rede para distribuir tarefas entre um grande número de pessoas, que movidas por um interesse individual, trabalham para um objectivo comum, fomentando um progresso científico descentralizado, que de outro modo ver-se-ia reduzido pela falta de financiamento e a excessiva burocracia institucional.
 Existem diferentes modelos em função do tipo de tarefas alocadas. Segundo Daren Brabham (2013:45):
+
 •	Administração de informação e resolução de problemas. Ej: http://en.seeclickfix.com
+
 •	Corpus de dados e desenvolvimento de soluções. Ej: http://mturk.com (casos como este implicam a realização de microtareas  com alguma compensação económica).
+
 •	Reptos objectivos e investigação em tempo real. Ej: http://innocentive.com
+
 •	Ideación e produção criativa. Ej: http://threadless.com
+
 Os primeiros projectos baseados no crowdsourcing surgiram entre 2010 e 2011 no âmbito do GLAM (Galerias, bibliotecas, arquivos e museus). Linhas de investigação que iam desde correcções para melhorar o OCR de publicações, passando por transcrições, votações ou controles de qualidade do cropping de imagens tal e como se aprecia em sites como Digital Glam.
 Mas chegados a este ponto seria interessante saber qual é a relação real com as humanidades digitais.
 
@@ -35,8 +40,11 @@ A ciência aberta é ser honesto, primeiro contigo mesmo e depois com o resto do
 No entanto, os tempos académicos não são os mesmos que os da cidadania, à hora de obter determinados resultados. Não há uma aculturación em temas de participação e para explicar este fenómeno se faz necessária uma categorização, segundo os tipos de projecto:
 
 •	Projectos contributivos: Convocados mediantes um telefonema à colaboração para desenvolver linhas de desenvolvimento definidas e dirigidas por cientistas.
+
 •	Projectos colaborativos: Pede-se uma colaboração pública mediante análise de dados, opinião ou petição de informação para chegar a uns resultados.
+
 •	Co-criação: Projecto co-desenhado com diferentes entidades e/ou coletivos.
+
 Nas humanidades digitais pode dar-se uma nova forma de investigação que pode devolver às humanidades todo o sentido e o significado a sua actividade: a investigação- acção. A contribuição de (Holley, 2010) é muito significativa:
 
 > Social engagement is about giving the public the ability to communicate with us and each other; to add avalie to existing library data by tagging, commenting, rating, reviewing, text correcting; and to create and upload content to add to our collections. This type of engagement is usually undertaken by individuals for themselves and their own purposes (…) Crowdsourcing uses social engagement technique to help a group of people achieve a shared, usually significant, and large goal by working collaboratively together as a group.
@@ -87,15 +95,25 @@ O mesmo poderia ocorrer entre departamentos ou entre universidades. Teria um pot
 A ciência aberta tem suas detractores, mas se assinalamos as tendências que definem as humanidades digitais vê-lo-emos mais claro (Théron, 2016: 2). Estamos ante um saber fazer aplicado e em todos esses processos nos vemos identificados (VÃO):
 
 >The track is intended to examine the state of the art of Digital Humanities regarding the following topics (and related topics present in other tracks):
+
 •	humanities research enabled through digital média, and computational methods
+
 •	computer applications in literary, linguistic, cultural, and historical studies visual approaches enabling novel ways of analysis and exploration of resources
+
 •	studies regarding the role of art and design (design thinking) in humanities
+
 •	open science and citizen science enabling cultural change towards collaboration and openness
+
 •	enhancing education in humanities through serious games
+
 •	digital arts, architecture, music, ﬁlm, theatre, new média, digital games, and related areas
+
 •	creation and curation of humanities digital resources
+
 •	social, institutional, global, multilingual, and multicultural aspects of digital humanities
+
 •	interdisciplinary aspects of digitally enabled scholarship
+
 •	innovative methods of application of 3D, robotics, drones, natural user interfaces, etc. in the context of the humanities
 
 **A MODO DE CONCLUSÃO**
