@@ -96,16 +96,25 @@ A ciência aberta tem suas detractores, mas se assinalamos as tendências que de
 
 >The track is intended to examine the state of the art of Digital Humanities regarding the following topics (and related topics present in other tracks):
 
->•	humanities research enabled through digital média, and computational methods
->•	computer applications in literary, linguistic, cultural, and historical studies visual approaches enabling novel ways of analysis and exploration of resources
->•	studies regarding the role of art and design (design thinking) in humanities
->•	open science and citizen science enabling cultural change towards collaboration and openness
->•	enhancing education in humanities through serious games
->•	digital arts, architecture, music, ﬁlm, theatre, new média, digital games, and related areas
->•	creation and curation of humanities digital resources
->•	social, institutional, global, multilingual, and multicultural aspects of digital humanities
->•	interdisciplinary aspects of digitally enabled scholarship
->•	innovative methods of application of 3D, robotics, drones, natural user interfaces, etc. in the context of the humanities
+>-humanities research enabled through digital média, and computational methods
+
+>-computer applications in literary, linguistic, cultural, and historical studies visual approaches enabling novel ways of analysis and exploration of resources
+
+>-studies regarding the role of art and design (design thinking) in humanities
+
+>-open science and citizen science enabling cultural change towards collaboration and openness
+
+>-enhancing education in humanities through serious games
+
+>-digital arts, architecture, music, ﬁlm, theatre, new média, digital games, and related areas
+
+>-creation and curation of humanities digital resources
+
+>-social, institutional, global, multilingual, and multicultural aspects of digital humanities
+
+>-interdisciplinary aspects of digitally enabled scholarship
+
+>-innovative methods of application of 3D, robotics, drones, natural user interfaces, etc. in the context of the humanities
 
 **A MODO DE CONCLUSÃO**
 
