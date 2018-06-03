@@ -47,13 +47,14 @@ No entanto, os tempos académicos não são os mesmos que os da cidadania, à ho
 
 Nas humanidades digitais pode dar-se uma nova forma de investigação que pode devolver às humanidades todo o sentido e o significado a sua actividade: a investigação- acção. A contribuição de (Holley, 2010) é muito significativa:
 
-> Social engagement is about giving the public the ability to communicate with us and each other; to add avalie to existing library data by tagging, commenting, rating, reviewing, text correcting; and to create and upload content to add to our collections. This type of engagement is usually undertaken by individuals for themselves and their own purposes (…) Crowdsourcing uses social engagement technique to help a group of people achieve a shared, usually significant, and large goal by working collaboratively together as a group.
+> Social engagement is about giving the public the ability to communicate with us and each other; to add value to existing library data by tagging, commenting, rating, reviewing, text correcting; and to create and upload content to add to our collections. This type of engagement is usually undertaken by individuals for themselves and their own purposes (…) Crowdsourcing uses social engagement technique to help a group of people achieve a shared, usually significant, and large goal by working collaboratively together as a group.
 
 Uma mediação social destas características perfila-se como um labor de carácter humanístico. Porque não só se trata de gerir a informação ou da interpretar ao mais puro estilo das CC. Sociais, também há comunidades virtuais e coletivos na cidadania que devem ser conovocados e introduzidos nestes  métodos de participação, o que faz necessária uma alfabetización digital e dinâmicas que façam possible o envolvimento de pessoas proactivas e com inquietudes.
 
 A ideia de “competição” a mudança de uma possível recompensa, como o reconhecimento ou alguma contraprestación simbólica, tem dado lugar a experimientos  de ciência aberta de grande impacto mediante o cumprimento de uma tarefa particular que tem de ser facilmente cuantificable e definible de modo que possa ser comparado aos resultados de tarefas completaram por outros. O impacto aqui, já não seguiria o padrão clássico de reconhecimento ou citas por parte dos experientes, sina de reputação digital e a realização correta de uma série de tarefas. Segundo Trevor Owens (2012):
 
 >Most successful crowdsourcing projects are not about large anonymous masses of people. They are not about crowds. They are about inviting participation from interested and engaged members of the public. These projects can continue a long standing tradition of volunteerism and involvement of citizens in the creation and continued development of public goods.
+
 Podemos assinalar os principais processos de participação cidadã através de uma tabela com as tarefas mais significativas:
 
 Processos | Atividades
@@ -67,7 +68,7 @@ Os tipos de tarefa asignables poderiam ser de carácter: Mecânico, editorial, s
 No âmbito académico, a situação poderia ter a mesma tesitura. Como exemplo, mostro uma experiência de uso de tecnologia PYBOSSA mediante a plataforma Crowdcrafting relativo à investigação sobre Spatial, Temporária and Spectral Variation of Light Pollution and its Sources: 
 
 >Methodology and Results. Assim o reflete seu autor:
-For data classiﬁcation projects, Enki performs and analysis in just a few lines of code, thanks to its integration with the numerical analysis package Pandas and the iPython notebooks. Integration with iPython allows sharing the analyses performed on the internet using a site navigator, sharing not only the results, but also the methodology used. This feature makes the PyBossa ecosystem especially powerful, given that a project developed using this technology enables to whole process to bê shared -data, source code and methodology- so that other researchers can repeat the experiment and validate the results.
+For data classiﬁcation projects, Enki performs and analysis in just a few lines of code, thanks to its integration with the numerical analysis package Pandas and the iPython notebooks. Integration with iPython allows sharing the analyses performed on the internet using a site navigator, sharing not only the results, but also the methodology used. This feature makes the PyBossa ecosystem especially powerful, given that a project developed using this technology enables to whole process to be shared -data, source code and methodology- so that other researchers can repeat the experiment and validate the results.
 In order to classify nighttime images taken from the International Space Station, uncatalogued images from the archive began to bê ﬁltered. In the ﬁrst phase of the experiment, a sample of images taken during Mission 30 of the International Space Station were processed due to the presence of the Nightpod. However, due to the success of the program, all of the uncatalogued images from the archive have been classiﬁed (…). The application is a simples interface in which the image to bê classiﬁed is shown. The user is prompted to place the image into one of eight categories at the discretion of the volunteer.
 A Citizen Science platform tens been created for the classiﬁcation, cataloging and georeferencing of the ISS/D3S images from NASA’s repository. To dá-te, more than 130,000 images from the archive have been tagged, more than 2300 images have been located, and more than 700 have been georeferenced. This database is currently the largest multispectral nighttime database in the world, in which more tão 15,000 volunteers have participated. The ﬁnal products will allow a global map of light pollution to bê made as seen from space with higher spatial resolution that what is provided by current satellites and with cor information in three bands. (Sánchez de Miguel, 2015: 111-120)
  
@@ -81,8 +82,8 @@ A pergunta, chegados a este ponto, seria: Que passaria se nossos dados pudessem 
 A palavra que mais se repete no contexto das humanidades digitais são os dados: Bancos de dados, dados enlaçados, dados bibliográficos, mineração de dados, análises de dados…e justamente por este motivo sua regulação e possível tratamento face a ligar com outras comunidades de conhecimento, poderia constituir uma autêntica rede neural com nós descentralizados.
 
 Pode-nos dar uma pista esta interessante definição do Big Data que proporciona Antonio Vermelhas num de seus artigos (Vermelhas, 2016: 64):
->The classic definition of “Big Data” is a formula that is easy to understand and memorise – the three Vs: Volume (Terabytes, Petabytes, Exabytes), Velocity (data that is constantly generated) and Variety (texts, images, sounds) (Ward and Barker, 2013). Some reports have subsequently added a fourth V, which stands for the term Veracity. Though this volume-based definition of Big Data only makes sense if we consider blogs, the social média and sensors to bê main sources of data (…).
-When statistical methods are used to analyse texts, because researchers shift their attention from the whole to the detail and from the detail to the whole to check that their ideias about the work are correct and accordingly gain a better understanding of the different layers of meaning, the central themes, the events and the style (…) researchers usually combine both strategies: they first gain an overview and then filter and examine the details for a deep comprehension.
+>The classic definition of “Big Data” is a formula that is easy to understand and memorise – the three Vs: Volume (Terabytes, Petabytes, Exabytes), Velocity (data that is constantly generated) and Variety (texts, images, sounds) (Ward and Barker, 2013). Some reports have subsequently added a fourth V, which stands for the term Veracity. Though this volume-based definition of Big Data only makes sense if we consider blogs, the social média and sensors to be main sources of data (…).
+When statistical methods are used to analyse texts, because researchers shift their attention from the whole to the detail and from the detail to the whole to check that their ideas about the work are correct and accordingly gain a better understanding of the different layers of meaning, the central themes, the events and the style (…) researchers usually combine both strategies: they first gain an overview and then filter and examine the details for a deep comprehension.
 
 Lestes dois últimos passos, filtrar e examinar, são justo os que podem criar esses nexos em comum. Nosso Big Data fica em mineração de dados, estilometría ou mind mapping, porque seguimos fixando nossos conhecimentos a nossa disciplina e o epicentro de nosso trabalho deve centrar-se em ligar com a realidade, pondo em valor os metadatos que nos oferece o free data. Não é o Big Data das grandes corporações o que poderia supor um avanço significativo para as Humanidades, sina o Thickdata. Pode que tenham uma maior quantidade de informação, mas qualitativamente falando, só podemos construir comunidades reconstruindo os dados e partindo de uma base de conhecimento antropológico.
 
@@ -96,7 +97,7 @@ A ciência aberta tem suas detractores, mas se assinalamos as tendências que de
 
 >The track is intended to examine the state of the art of Digital Humanities regarding the following topics (and related topics present in other tracks):
 
->-humanities research enabled through digital média, and computational methods
+>-humanities research enabled through digital media, and computational methods
 
 >-computer applications in literary, linguistic, cultural, and historical studies visual approaches enabling novel ways of analysis and exploration of resources
 
@@ -132,6 +133,6 @@ Therón, R., Wandl-Vogt, E. 2016. New trends in digital humanities. In Proceedin
 
 Sánchez de Miguel, A. 2015. Spatial, Temporal and Spectral Variation of Light Pollution and its Sources: Methodology and Results, Madri: Universidade Complutense. (Tese doctoral)
 
-Serantes, A. 2018. “Da ciência cidadã à Academia: Entrevista a Daniel Lombraña”, El Correo Gallego, https://github.com/arantxaserantes/playlist_hd/edit/master/playlisthd%20portugues.md
+Serantes, A. 2018. “De la ciencia ciudadana a la Academia: Entrevista a Daniel Lombraña”, El Correo Gallego, https://github.com/arantxaserantes/playlist_hd/edit/master/playlisthd%20portugues.md
 
 
