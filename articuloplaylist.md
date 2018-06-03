@@ -1,5 +1,5 @@
 
-<p># <em><strong>Crowdcrafting y crowdsourcing: redes científicas y ciudadanas para las humanidades digitales</strong></em></p>
+<p><strong>Crowdcrafting y crowdsourcing: redes científicas y ciudadanas para las humanidades digitales</strong></p>
 <p>por Arantxa Serantes</p>
 <p>(Humanista digital y Phd por la USC. Investigadora postdoctoral en Emapic – UDC)</p>
 <p>Las humanidades digitales están absolutamente comprometidas con el uso de las nuevas tecnologías para ampliar el horizonte de la cultura y el patrimonio haciéndolo accesible. Construir proyectos que impliquen la participación de un público más amplio es uno de los objetivos a desarrollar. Supone ir un paso más allá de las redes sociales académicas,que actúan como una prolongación de repositorios institucionales.</p>
@@ -120,5 +120,5 @@ La ciencia abierta tiene sus detractores, pero si señalamos las tendencias que 
 <p>Rojas, A. 2017. “Big Data in the Digital Humanities. New conversations in the global academic context”, <em>AC/E Digital Culture Annual Report 2017</em>: pp. 62-71.</p>
 <p>Therón, R., Wandl-Vogt, E. 2016. New trends in digital humanities. In <em>Proceedings of the Fourth International Conference on Technological Ecosystems for Enhancing Multiculturality (TEEM ’16)</em>, Francisco José García-Peñalvo (Ed.). ACM, New York, NY, USA, 945-947. DOI: <a href="https://doi.org/10.1145/3012430.3012630">https://doi.org/10.1145/3012430.3012630</a></p>
 <p>Sánchez de Miguel, A. 2015. <em>Spatial, Temporal and Spectral Variation of Light Pollution and its Sources: Methodology and Results</em>, Madrid: Universidad Complutense. (Tesis doctoral)</p>
-<p>Serantes, A. 2018. “De la ciencia ciudadana a la Academia: Entrevista a Daniel Lombraña”, <em>El Correo Gallego</em>https://github.com/arantxaserantes/playlist_hd/blob/master/entrevista%20crowdsourcing.md.</p>
+<p>Serantes, A. 2018. “De la ciencia ciudadana a la Academia: Entrevista a Daniel Lombraña”, <em>El Correo Gallego</em> https://github.com/arantxaserantes/playlist_hd/blob/master/entrevista%20crowdsourcing.md.</p>
 
