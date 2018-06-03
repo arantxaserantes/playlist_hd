@@ -56,12 +56,12 @@ A ideia de “competição” a mudança de uma possível recompensa, como o rec
 >Most successful crowdsourcing projects are not about large anonymous masses of people. They are not about crowds. They are about inviting participation from interested and engaged members of the public. These projects can continue a long standing tradition of volunteerism and involvement of citizens in the creation and continued development of public goods.
 Podemos assinalar os principais processos de participação cidadã através de uma tabela com as tarefas mais significativas:
 
-Procesos | Actividades
+Processos | Atividades
 |--|--|
-Tagging colaborativo | Enlazar información
-|Corregir / modificar contenido/ transcribir | Categorización, catalogación
-|Registro y creación de contenido|Comentar, respuestas críticas y declarar preferencias
-|Mapeo|Georreferenciación|
+|Marcação colaborativa | Informação de link
+|Corrigir / modificar o conteúdo / transcrever | Categorização, catalogação
+|Grave e crie conteúdo| Comentário, respostas críticas e preferências de declaração
+|Mapeamento|Georreferenciamento|
 
 Os tipos de tarefa asignables poderiam ser de carácter: Mecânico, editorial, sintético, pesquisador e criativo, também ajustar-se-iam a uma série de formatos que permitiriam a transformação da informação e a possibilidade de compartilhar as livrarias. Mas para que isto seja uma realidade, farão falta ferramentas tecnológicas cuja usabilidade não seja excessivamente complexa. Pelo momento, os laboratórios cidadãos, para realizar este tipo de actividades baseiam-se em grupos de interesse e no uso de ferramentas de software livre existentes. Através de hackatones , meetups ou convocações específicas para o desenvolvimento de um determinado projecto, conseguem criar comunidades presenciais para o desenvolvimento. Mesmo assim, podem chegar a ter baixa afluencia de público generalista, que desejaria afianzar essas habilidades e não se vêem colaborando em ditos contextos porque requerem conhecimentos técnicos muito específicos.
 No âmbito académico, a situação poderia ter a mesma tesitura. Como exemplo, mostro uma experiência de uso de tecnologia PYBOSSA mediante a plataforma Crowdcrafting relativo à investigação sobre Spatial, Temporária and Spectral Variation of Light Pollution and its Sources: 
@@ -81,7 +81,7 @@ A pergunta, chegados a este ponto, seria: Que passaria se nossos dados pudessem 
 A palavra que mais se repete no contexto das humanidades digitais são os dados: Bancos de dados, dados enlaçados, dados bibliográficos, mineração de dados, análises de dados…e justamente por este motivo sua regulação e possível tratamento face a ligar com outras comunidades de conhecimento, poderia constituir uma autêntica rede neural com nós descentralizados.
 
 Pode-nos dar uma pista esta interessante definição do Big Data que proporciona Antonio Vermelhas num de seus artigos (Vermelhas, 2016: 64):
-The classic definition of “Big Data” is a formula that is easy to understand and memorise – the three Vs: Volume (Terabytes, Petabytes, Exabytes), Velocity (data that is constantly generated) and Variety (texts, images, sounds) (Ward and Barker, 2013). Some reports have subsequently added a fourth V, which stands for the term Veracity. Though this volume-based definition of Big Data only makes sense if we consider blogs, the social média and sensors to bê main sources of data (…).
+>The classic definition of “Big Data” is a formula that is easy to understand and memorise – the three Vs: Volume (Terabytes, Petabytes, Exabytes), Velocity (data that is constantly generated) and Variety (texts, images, sounds) (Ward and Barker, 2013). Some reports have subsequently added a fourth V, which stands for the term Veracity. Though this volume-based definition of Big Data only makes sense if we consider blogs, the social média and sensors to bê main sources of data (…).
 When statistical methods are used to analyse texts, because researchers shift their attention from the whole to the detail and from the detail to the whole to check that their ideias about the work are correct and accordingly gain a better understanding of the different layers of meaning, the central themes, the events and the style (…) researchers usually combine both strategies: they first gain an overview and then filter and examine the details for a deep comprehension.
 
 Lestes dois últimos passos, filtrar e examinar, são justo os que podem criar esses nexos em comum. Nosso Big Data fica em mineração de dados, estilometría ou mind mapping, porque seguimos fixando nossos conhecimentos a nossa disciplina e o epicentro de nosso trabalho deve centrar-se em ligar com a realidade, pondo em valor os metadatos que nos oferece o free data. Não é o Big Data das grandes corporações o que poderia supor um avanço significativo para as Humanidades, sina o Thickdata. Pode que tenham uma maior quantidade de informação, mas qualitativamente falando, só podemos construir comunidades reconstruindo os dados e partindo de uma base de conhecimento antropológico.
@@ -130,8 +130,8 @@ Vermelhas, A. 2017. “Big Data in the Digital Humanities. New conversations in 
 
 Therón, R., Wandl-Vogt, E. 2016. New trends in digital humanities. In Proceedings of the Fourth International Conference on Technological Ecosystems for Enhancing Multiculturality (TEEM ’16), Francisco José García-Peñalvo (Ed.). ACM, New York, NY, USA, 945-947. DOI: https://doi.org/10.1145/3012430.3012630
 
-Sánchez de Miguel, A. 2015. Spatial, Temporário and Spectral Variation of Light Pollution and its Sources: Methodology and Results, Madri: Universidade Complutense. (Tese doctoral)
+Sánchez de Miguel, A. 2015. Spatial, Temporal and Spectral Variation of Light Pollution and its Sources: Methodology and Results, Madri: Universidade Complutense. (Tese doctoral)
 
-Serantes, A. 2018. “Da ciência cidadã à Academia: Entrevista a Daniel Lombraña”, O Correio Galego (em imprensa).
+Serantes, A. 2018. “Da ciência cidadã à Academia: Entrevista a Daniel Lombraña”, El Correo Gallego, https://github.com/arantxaserantes/playlist_hd/edit/master/playlisthd%20portugues.md
 
 
