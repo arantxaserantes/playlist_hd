@@ -120,5 +120,5 @@ La ciencia abierta tiene sus detractores, pero si señalamos las tendencias que 
 <p>Rojas, A. 2017. “Big Data in the Digital Humanities. New conversations in the global academic context”, <em>AC/E Digital Culture Annual Report 2017</em>: pp. 62-71.</p>
 <p>Therón, R., Wandl-Vogt, E. 2016. New trends in digital humanities. In <em>Proceedings of the Fourth International Conference on Technological Ecosystems for Enhancing Multiculturality (TEEM ’16)</em>, Francisco José García-Peñalvo (Ed.). ACM, New York, NY, USA, 945-947. DOI: <a href="https://doi.org/10.1145/3012430.3012630">https://doi.org/10.1145/3012430.3012630</a></p>
 <p>Sánchez de Miguel, A. 2015. <em>Spatial, Temporal and Spectral Variation of Light Pollution and its Sources: Methodology and Results</em>, Madrid: Universidad Complutense. (Tesis doctoral)</p>
-<p>Serantes, A. 2018. “De la ciencia ciudadana a la Academia: Entrevista a Daniel Lombraña”, <em>El Correo Gallego</em> https://github.com/arantxaserantes/playlist_hd/blob/master/entrevista%20crowdsourcing.md.</p>
+<p>Serantes, A. 2018. “De la ciencia ciudadana a la Academia: Entrevista a Daniel Lombraña”, <em>El Correo Gallego</em>, https://github.com/arantxaserantes/playlist_hd/blob/master/entrevista%20crowdsourcing.md.</p>
 
